@@ -12,7 +12,7 @@ Service Application Design | Design Infrastructure and DevOPs to host microservi
 Develop Microservice Application | Create a POC microservice application that runs in Docker container
 DevOPs Deployment Spike | Research effort to run microservice on the cloud and scripts/commands to deploy microservice locally
 DevOPs Pipeline Spike | Research free open source tools for Jenkins Pipeline to improve code quality & Configuring Artifactory Repository with GitHub
-SDK Spike | Research effort to develop a TypeScript SDK to use API
+SDK Spike | Research effort to develop a TypeScript SDK to use microservice's API
 
 ## DevOPs Requirements:
 * CI - Continuous Integration Pipeline should improve code quality provide transparent code coverage, and automate versioning for deployment
