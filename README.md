@@ -7,7 +7,7 @@ Brainstorm  | Conduct research on interesting services that are feasible to impl
 Voting  | Decide on a single microservice with a backend service that can be implemented, start small and work upwards towards a fleshed out API
 API Design Stage 1 | Draft up minimal required API endpoints
 API Security Spike | Research security practices to secure API endpoints
-API POC Implementation | POSTMAN Collection of API Design Stage 1
+API Proof of Concept (POC) | POSTMAN Collection of API Design Stage 1
 Service Application Design | Design Infrastructure and DevOPs to host microservice
 Develop Microservice Application | Create a POC microservice application that runs in Docker container
 DevOPs Deployment Spike | Research effort to run microservice on the cloud and scripts/commands to deploy microservice locally
