@@ -14,7 +14,7 @@ DevOPs Deployment Spike | Research effort to run microservice on the cloud and s
 DevOPs Pipeline Spike | Research free open source tools for Jenkins Pipeline to improve code quality & Configuring Artifactory Repository with GitHub
 SDK Spike | Research effort to develop a TypeScript SDK to use API
 
-DevOPs Requirements:
+## DevOPs Requirements:
 * CI - Continuous Integration Pipeline should improve code quality provide transparent code coverage, and automate versioning for deployment
 * CD - Continuous Deployment Pipeline should automate deployments to any CLOUD environments running the microservice and manage packages/artifacts
 
