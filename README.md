@@ -3,6 +3,7 @@
 
  Development Stages | Description
 | :--- | :---
+Project Management Staging | Setup project management tools for agile development
 Brainstorm  | Conduct research on interesting services that are feasible to implement
 Voting  | Decide on a single microservice with a backend service that can be implemented, start small and work upwards towards a fleshed out API
 API Design Stage 1 | Draft up minimal required API endpoints
