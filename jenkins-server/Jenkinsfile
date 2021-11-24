@@ -1,0 +1,28 @@
+pipeline {
+    agent any
+
+    stages {
+
+        stage('Install Dependencies') {
+            steps {
+                echo 'Installing Dependencies'
+            }
+        }
+
+        stage('Build') {
+            steps {
+                echo 'Building..'
+            }
+        }
+        stage('Tests') {
+            steps {
+                echo 'Testing..'
+            }
+        }
+        stage('Deploy to Artifactory') {
+            steps {
+                echo 'Deploying....'
+            }
+        }
+    }
+}
