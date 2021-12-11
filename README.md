@@ -4,6 +4,7 @@
  Development Stages | Description
 | :--- | :---
 Project Management Staging | Setup project management tools for agile development
+DevOPs Initial CI/CD Pipeline | Create blank template CI/CD local Jenkins Agent pipeline
 Brainstorm  | Conduct research on interesting services that are feasible to implement
 Voting  | Decide on a single microservice with a backend service that can be implemented, start small and work upwards towards a fleshed out API
 API Design Stage 1 | Draft up minimal required API endpoints
