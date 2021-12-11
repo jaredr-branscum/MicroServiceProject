@@ -1,0 +1,38 @@
+@startuml Sprint Calendar for 22.4 PI
+
+class "Sprint 1" {
+  Time: October 3 - October 14
+  'void methods()
+}
+
+class "Sprint 2" {
+  Time: October 17 - October 28
+  'void methods()
+}
+
+class "Sprint 3" {
+  Time: October 31 - November 11
+  'void methods()
+}
+
+class "Sprint 4" {
+  Time: November 14 - November 25
+  'void methods()
+}
+
+class "Sprint 5" {
+  Time: November 28 - December 9
+  'void methods()
+}
+
+class "Sprint 6" {
+  Time: December 12 - December 23
+  'void methods()
+}
+
+class "PI Planning" {
+  Time: December 26 - December 30
+  'void methods()
+}
+
+@enduml

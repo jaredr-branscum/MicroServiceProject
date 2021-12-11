@@ -1,0 +1,38 @@
+@startuml Sprint Calendar for 22.3 PI
+
+class "Sprint 1" {
+  Time: July 4 - July 15
+  'void methods()
+}
+
+class "Sprint 2" {
+  Time: July 18 - July 29
+  'void methods()
+}
+
+class "Sprint 3" {
+  Time: August 1 - August 12
+  'void methods()
+}
+
+class "Sprint 4" {
+  Time: August 15 - August 26
+  'void methods()
+}
+
+class "Sprint 5" {
+  Time: August 29 - September 9
+  'void methods()
+}
+
+class "Sprint 6" {
+  Time: September 12 - September 23
+  'void methods()
+}
+
+class "PI Planning" {
+  Time: September 26 - September 30
+  'void methods()
+}
+
+@enduml

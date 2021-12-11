@@ -1,0 +1,21 @@
+@startuml 2022-PI-Calendar
+start
+
+:22.1 PI: January 3 - March 25;
+
+:22.2 PI Planning: March 26 - April 3;
+
+:22.2 PI: April 4 - June 24;
+
+:22.3 PI Planning: June 25 - July 3;
+
+:22.3 PI: July 4 - September 28;
+
+:22.4 PI Planning: September 29 - October 2;
+
+:22.4 PI: October 3 - December 28;
+
+:23.1 PI Planning: December 29 - January 1;
+
+end
+@enduml
