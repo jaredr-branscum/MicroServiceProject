@@ -10,6 +10,7 @@ import { Patient } from "./high-level-patient"
 export interface MicroServices {
     ExternalChannelAdapter,
     InternalChannelAdapter,
+    NotificationService,
     OAuth2
 }
 
