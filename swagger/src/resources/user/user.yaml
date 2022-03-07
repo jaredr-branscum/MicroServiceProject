@@ -1,0 +1,9 @@
+post:
+  summary: Create user
+  operationId: createUser
+  description: Create a user
+  responses:
+    '201':
+        $ref : "../../responses/NullResponse.yaml"
+    default:
+        $ref : "../../responses/UnexpectedError.yaml"
