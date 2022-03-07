@@ -1,3 +1,4 @@
 *.env
 swagger/petStoreopenapi.yaml
 node_modules
+swagger/package-lock.json
